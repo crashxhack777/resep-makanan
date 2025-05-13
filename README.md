@@ -4,7 +4,7 @@ Your ultimate destination for culinary exploration and creativity. Discover a va
 ![img](public/preview.png)
 
 <p align="center">
-https://nemaas-flavorshare.vercel.app
+https://resep-makanan-baru.vercel.app/
 </p>
 
 ## **Run it locally**
